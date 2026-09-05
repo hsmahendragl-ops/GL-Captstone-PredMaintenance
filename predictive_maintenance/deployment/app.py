@@ -13,7 +13,7 @@ import pandas as pd
 # Streamlit UI for Machine Failure Prediction
 st.title("Prediction Maintenance App")
 st.write("""
-This application predicts the likelihood of Engine Condition needing repair.
+This application predicts the condition of the engine and likelihood of Engine needing repair.
 Prediction is based on Engine and Oil parameters.
 Please enter the profile data below to get a prediction.
 """)
